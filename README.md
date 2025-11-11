@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyYTV0eWh2cXJyYWs4bHRibGpvajRhcWw3Z2s0cXAydXdvdjliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Pixel Art Welcome GIF" />
+  <h1>Hey there, I'm Abdelhamid Bahou 👋</h1>
+  <h3>Big Data & IoT Engineer | Software Developer | Embedded Systems Enthusiast</h3>
+</div>
 
-<!--
-**abbahou/abbahou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBxNjAwbWF0Mm1oZ3R5NGVxcjd6a3BnMjUzdWhjMGlrYmxhbnlhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" alt="Coding GIF" />
+  <img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Keyboard GIF" />
+</div>
+
+* 🌍 Based in **Casablanca, Morocco**  
+* 🎓 Studying **Master’s in Big Data & Internet of Things** at **ENSAM Casablanca**  
+* 💡 Passionate about **AI, Data Pipelines, Cloud & Embedded Systems**  
+* 🧠 Currently working on projects involving **FPGA, ESP32, and Medical Data Processing**  
+* 💪 Always optimizing — code, systems, and learning paths  
+* 🎯 My motto: *“Build smart, keep it minimal.”*  
+
+---
+
+### 🧰 My Toolbelt
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" title="Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" title="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧬 **Medical Entity Extractor** – NLP project for extracting diagnoses, treatments, and medications from clinical texts.  
+- 🛰️ **IoT Big Data Pipeline** – Real-time data flow with MQTT, Spark, and Docker.  
+- 🔐 **ESP32 Fingerprint System** – Secure authentication with LCD display and email alerts.  
+- ⚙️ **FPGA UART Configurator** – Hardware-level pin configuration and signal optimization.  
+
+---
+
+### 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelbahou&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelbahou&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 💬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelhamid-bahou/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:bahouabdelhamid@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://github.com/abdelbahou" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelbahou.abdelbahou" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <i>“Code with precision. Learn with curiosity. Build with purpose.”</i>
+</div>
