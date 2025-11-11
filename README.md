@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyYTV0eWh2cXJyYWs4bHRibGpvajRhcWw3Z2s0cXAydXdvdjliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Pixel Art Welcome GIF" />
+ 
   <h1>Hey there, I'm Abdelhamid Bahou 👋</h1>
   <h3>Big Data & IoT Engineer | Software Developer | Embedded Systems Enthusiast</h3>
 </div>
@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
@@ -53,27 +52,18 @@
 
 ---
 
-### 🏆 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelbahou&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelbahou&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
----
 
 ### 💬 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelhamid-bahou/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelhamid-bahou-03b882210/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:bahouabdelhamid@gmail.com" target="_blank">
+  <a href="mailto:bahouabdelhamid00@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/abdelbahou" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  
 </div>
 
 <div align="center">
