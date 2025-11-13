@@ -14,7 +14,7 @@
 * 💡 Passionate about **AI, Data Pipelines, Cloud & Embedded Systems**  
 * 🧠 Currently working on projects involving **FPGA, ESP32, and Medical Data Processing**  
 * 💪 Always optimizing — code, systems, and learning paths  
-* 🎯 My motto: *“Build smart, keep it minimal.”*  
+ 
 
 ---
 
